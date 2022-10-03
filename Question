@@ -1,0 +1,6 @@
+Use Titanic Dataset and interpret the following
+1. Based on the survived column, find how many passengers are survived, not survive
+2. Find how many males, and females survived.
+3. Based on Passenger class, find how many survived.
+4. Find the distribution of age using a histogram
+5. Find the count of Sibsp - Sibling, Spouse
